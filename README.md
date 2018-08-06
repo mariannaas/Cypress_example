@@ -3,7 +3,7 @@ JavaScript+Cypress+Node.js test examples
 
 Task description:
 
- -Build test framework for online casino game by using JavaScript and any exisiting test framework
+ -Build test framework for online casino game 'spinning slot machine' by using JavaScript and any exisiting test framework
  
  -I have used: https://www.cypress.io/
  

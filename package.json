@@ -1,0 +1,15 @@
+{
+  "name": "netent_tests",
+  "version": "1.0.0",
+  "description": "netent test framework",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "MS",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "cypress": "^2.1.0"
+  }
+}

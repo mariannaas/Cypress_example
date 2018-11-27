@@ -1,7 +1,5 @@
 describe('Check WIN statuses', function () {
 
-
-
         it('Check Big Win', function () {
             cy.server() // enable response stubbing
             cy.route({
